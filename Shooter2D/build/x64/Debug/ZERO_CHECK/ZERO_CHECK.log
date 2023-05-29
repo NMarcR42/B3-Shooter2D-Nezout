@@ -1,0 +1,10 @@
+﻿  Checking Build System
+  CMake is re-running because C:/Users/Utilisateur/Documents/YNOV/newwww/Shooter2D/build/CMakeFiles/generate.stamp is out-of-date.
+    the file 'C:/Users/Utilisateur/Documents/YNOV/newwww/Shooter2D/CMakeLists.txt'
+    is newer than 'C:/Users/Utilisateur/Documents/YNOV/newwww/Shooter2D/build/CMakeFiles/generate.stamp.depend'
+    result='-1'
+  -- Selecting Windows SDK version 10.0.19041.0 to target Windows 10.0.19045.
+  -- Found SFML 2.5.1 in C:/Program Files (x86)/SFML-2.5.1/lib/cmake/SFML
+  -- Configuring done (0.1s)
+  -- Generating done (0.0s)
+  -- Build files have been written to: C:/Users/Utilisateur/Documents/YNOV/newwww/Shooter2D/build

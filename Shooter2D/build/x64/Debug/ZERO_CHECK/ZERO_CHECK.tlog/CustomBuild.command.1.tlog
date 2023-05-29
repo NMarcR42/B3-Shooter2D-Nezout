@@ -1,0 +1,10 @@
+^C:\USERS\UTILISATEUR\DOCUMENTS\YNOV\NEWWWW\SHOOTER2D\BUILD\CMAKEFILES\0B6E23789FF47C53F0AE6748CA640C8D\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Utilisateur/Documents/YNOV/newwww/Shooter2D -BC:/Users/Utilisateur/Documents/YNOV/newwww/Shooter2D/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Utilisateur/Documents/YNOV/newwww/Shooter2D/build/Shooter2D.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

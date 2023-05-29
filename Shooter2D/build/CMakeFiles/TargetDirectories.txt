@@ -1,0 +1,3 @@
+C:/Users/Utilisateur/Documents/YNOV/newwww/Shooter2D/build/CMakeFiles/Shooter2D.dir
+C:/Users/Utilisateur/Documents/YNOV/newwww/Shooter2D/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Utilisateur/Documents/YNOV/newwww/Shooter2D/build/CMakeFiles/ZERO_CHECK.dir

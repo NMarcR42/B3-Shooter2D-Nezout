@@ -1,0 +1,30 @@
+# CMake generation dependency list for this directory.
+C:/Program Files (x86)/SFML-2.5.1/lib/cmake/SFML/SFMLConfig.cmake
+C:/Program Files (x86)/SFML-2.5.1/lib/cmake/SFML/SFMLConfigDependencies.cmake
+C:/Program Files (x86)/SFML-2.5.1/lib/cmake/SFML/SFMLConfigVersion.cmake
+C:/Program Files (x86)/SFML-2.5.1/lib/cmake/SFML/SFMLSharedTargets-debug.cmake
+C:/Program Files (x86)/SFML-2.5.1/lib/cmake/SFML/SFMLSharedTargets-release.cmake
+C:/Program Files (x86)/SFML-2.5.1/lib/cmake/SFML/SFMLSharedTargets.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Compiler/MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Platform/WindowsPaths.cmake
+C:/Users/Utilisateur/Documents/YNOV/newwww/Shooter2D/CMakeLists.txt
+C:/Users/Utilisateur/Documents/YNOV/newwww/Shooter2D/build/CMakeFiles/3.26.4/CMakeCCompiler.cmake
+C:/Users/Utilisateur/Documents/YNOV/newwww/Shooter2D/build/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake
+C:/Users/Utilisateur/Documents/YNOV/newwww/Shooter2D/build/CMakeFiles/3.26.4/CMakeRCCompiler.cmake
+C:/Users/Utilisateur/Documents/YNOV/newwww/Shooter2D/build/CMakeFiles/3.26.4/CMakeSystem.cmake

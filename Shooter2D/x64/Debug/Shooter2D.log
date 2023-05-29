@@ -1,0 +1,23 @@
+﻿  Player.cpp
+  Shooter2D.cpp
+C:\Users\Utilisateur\Documents\YNOV\newwww\Shooter2D\Shooter2D.cpp(24,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\Utilisateur\Documents\YNOV\newwww\Shooter2D\Shooter2D.cpp(198,86): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Utilisateur\Documents\YNOV\newwww\Shooter2D\Shooter2D.cpp(198,57): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  Génération de code en cours...
+  Shooter2D.vcxproj -> C:\Users\Utilisateur\Documents\YNOV\newwww\Shooter2D\x64\Debug\Shooter2D.exe

@@ -1,0 +1,7 @@
+{
+  "name": "cours-cpp",
+  "description": "CPP Course Ynov B3",
+  "dependencies": [
+    "sfml"
+  ]
+}

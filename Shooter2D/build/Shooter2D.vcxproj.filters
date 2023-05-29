@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Utilisateur\Documents\YNOV\newwww\Shooter2D\Bullet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Utilisateur\Documents\YNOV\newwww\Shooter2D\Enemy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Utilisateur\Documents\YNOV\newwww\Shooter2D\EnemyAnimation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Utilisateur\Documents\YNOV\newwww\Shooter2D\Player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Utilisateur\Documents\YNOV\newwww\Shooter2D\PlayerAnimation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Utilisateur\Documents\YNOV\newwww\Shooter2D\Shooter2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Utilisateur\Documents\YNOV\newwww\Shooter2D\Bullet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Utilisateur\Documents\YNOV\newwww\Shooter2D\Enemy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Utilisateur\Documents\YNOV\newwww\Shooter2D\EnemyAnimation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Utilisateur\Documents\YNOV\newwww\Shooter2D\Player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Utilisateur\Documents\YNOV\newwww\Shooter2D\PlayerAnimation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Utilisateur\Documents\YNOV\newwww\Shooter2D\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{4B4AAE70-4859-3648-8C7A-528C80A2AE97}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6EC89287-DFA7-3B1B-B518-F1B4B03C9C9B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
